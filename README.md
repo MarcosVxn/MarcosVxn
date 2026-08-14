@@ -38,6 +38,27 @@ Atualmente venho desenvolvendo meus conhecimentos em **Front-End e Back-End**, c
 
 ---
 
+## 🕸️ Minha Jornada de Contribuições
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/MarcosVxn/MarcosVxn/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/MarcosVxn/MarcosVxn/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="GitHub contribution grid snake animation"
+      src="https://raw.githubusercontent.com/MarcosVxn/MarcosVxn/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
+</p>
+
+---
+
 ## Estatísticas do GitHub
 
 <p align="center">
