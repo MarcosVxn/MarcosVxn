@@ -1,20 +1,10 @@
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=180&section=header&text=Olá,%20sou%20o%20Marcos%20🕷️&fontSize=28&fontColor=7A1FFF&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=180&section=header&text=Olá,%20sou%20o%20Marcos%20👋&fontSize=28&fontColor=7A1FFF&animation=twinkling"/>
 </h1>
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f578.svg" width="45">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/MarcosVxn-000000?style=for-the-badge&logo=github&logoColor=7A1FFF"/>
-  <img src="https://img.shields.io/badge/ADS%20Student-000000?style=for-the-badge&logoColor=7A1FFF"/>
-  <img src="https://img.shields.io/badge/IN%20PROGRESS-000000?style=for-the-badge&logoColor=7A1FFF"/>
-</p>
 
 ---
 
-## 🕸️ Sobre Mim
+## Sobre Mim
 
 <img align="right" alt="Coding GIF" width="300" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
 
@@ -22,7 +12,7 @@ Estudante de **Análise e Desenvolvimento de Sistemas** com foco em desenvolvime
 
 Atualmente venho desenvolvendo meus conhecimentos em **Front-End e Back-End**, colocando em prática o que estudo através de projetos, exercícios e aplicações próprias.
 
-### 🕷️ Linhas de Estudo:
+### Linhas de Estudo:
 
 * Desenvolvimento de interfaces utilizando **HTML5**, **CSS3**, **JavaScript** e **React**.
 * Desenvolvimento Back-End utilizando **Python** e **FastAPI**.
@@ -35,7 +25,7 @@ Atualmente venho desenvolvendo meus conhecimentos em **Front-End e Back-End**, c
 
 ---
 
-## 🕸️ Tecnologias & Ferramentas que estudo
+## Tecnologias & Ferramentas que estudo
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,python,fastapi,java,mysql,sqlite,git,github,vscode&theme=dark" />
@@ -46,15 +36,9 @@ Atualmente venho desenvolvendo meus conhecimentos em **Front-End e Back-End**, c
   <img src="https://img.shields.io/badge/Alembic-000000?style=for-the-badge&logo=alembic&logoColor=7A1FFF"/>
 </p>
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f577.svg" width="35"/>
-  <img src="https://img.shields.io/badge/Code%20•%20Create%20•%20Repeat-7A1FFF?style=flat-square&labelColor=000000"/>
-  <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f578.svg" width="35"/>
-</p>
-
 ---
 
-## 🕷️ Estatísticas do GitHub
+## Estatísticas do GitHub
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MarcosVxn&theme=github_dark" />
@@ -67,13 +51,13 @@ Atualmente venho desenvolvendo meus conhecimentos em **Front-End e Back-End**, c
 
 ---
 
-## 🕸️ Formação Acadêmica
+## Formação Acadêmica
 
 * **Ensino Superior:** Análise e Desenvolvimento de Sistemas — *SENAI*
 
 ---
 
-## 🕷️ Projetos
+## Projetos
 
 Alguns dos projetos desenvolvidos durante minha jornada de estudos:
 
@@ -84,7 +68,7 @@ Alguns dos projetos desenvolvidos durante minha jornada de estudos:
 
 ---
 
-## 🕸️ Contato & Portfólio
+## Contato & Portfólio
 
 <p align="center">
   <a href="https://github.com/MarcosVxn" target="_blank">
@@ -101,12 +85,6 @@ Alguns dos projetos desenvolvidos durante minha jornada de estudos:
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f578.svg" width="32"/>
-  <img src="https://img.shields.io/badge/MARCOSVXN-7A1FFF?style=for-the-badge&labelColor=000000"/>
-  <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f577.svg" width="32"/>
-</p>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer&fontColor=7A1FFF"/>
