@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=180&section=header&text=Olá,%20sou%20o%20Marcos%20👋&fontSize=28&fontColor=FFD700&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=180&section=header&text=Olá,%20sou%20o%20Marcos%20👋&fontSize=28&fontColor=7A1FFF&animation=twinkling"/>
 </h1>
 
 ---
@@ -32,8 +32,8 @@ Atualmente venho desenvolvendo meus conhecimentos em **Front-End e Back-End**, c
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SQLAlchemy-000000?style=for-the-badge&logo=sqlalchemy&logoColor=FFD700"/>
-  <img src="https://img.shields.io/badge/Alembic-000000?style=for-the-badge&logo=python&logoColor=FFD700"/>
+  <img src="https://img.shields.io/badge/SQLAlchemy-000000?style=for-the-badge&logo=sqlalchemy&logoColor=7A1FFF"/>
+  <img src="https://img.shields.io/badge/Alembic-000000?style=for-the-badge&logo=alembic&logoColor=7A1FFF"/>
 </p>
 
 ---
@@ -41,11 +41,12 @@ Atualmente venho desenvolvendo meus conhecimentos em **Front-End e Back-End**, c
 ## Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MarcosVxn&show_icons=true&theme=highcontrast&hide_border=true&title_color=FFD700&icon_color=FFD700" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MarcosVxn&theme=github_dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosVxn&layout=compact&theme=highcontrast&hide_border=true&title_color=FFD700" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MarcosVxn&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MarcosVxn&theme=github_dark" />
 </p>
 
 ---
@@ -71,14 +72,24 @@ Alguns dos projetos desenvolvidos durante minha jornada de estudos:
 
 <p align="center">
   <a href="https://github.com/MarcosVxn" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-FFD700?style=for-the-badge&logo=github&logoColor=000000"/>
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=7A1FFF"/>
+  </a>
+
+  <a href="https://www.instagram.com/marcosvxn_/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=7A1FFF"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/marcosvxn/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=7A1FFF"/>
   </a>
 </p>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer&fontColor=FFD700"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer&fontColor=7A1FFF"/>
 </div>
 
-<p align="center"><i>Documentando minha jornada de aprendizado 🚀</i></p>
+<p align="center">
+  <i>Documentando minha jornada de aprendizado 🚀</i>
+</p>
