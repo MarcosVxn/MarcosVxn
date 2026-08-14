@@ -38,7 +38,7 @@ Atualmente venho desenvolvendo meus conhecimentos em **Front-End e Back-End**, c
 
 ---
 
-## 🕸️ Minha Jornada de Contribuições
+## <img src="https://img.shields.io/badge/%F0%9F%95%B8%EF%B8%8F-7A1FFF?style=flat-square&labelColor=000000" height="22"> Minha Jornada de Contribuições
 
 <p align="center">
   <picture>
