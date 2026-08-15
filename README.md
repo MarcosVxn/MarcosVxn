@@ -37,6 +37,7 @@ Atualmente venho desenvolvendo meus conhecimentos em **Front-End e Back-End**, c
   <img src="https://img.shields.io/badge/Alembic-000000?style=for-the-badge&logo=alembic&logoColor=7A1FFF"/>
   <img src="https://img.shields.io/badge/GitHub_Actions-000000?style=for-the-badge&logo=githubactions&logoColor=7A1FFF"/>
 </p>
+
 ---
 
 ## 🕸️ Minha Jornada de Contribuições
