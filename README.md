@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=180&section=header&text=Olá,%20sou%20o%20Marcos%20👋&fontSize=28&fontColor=7A1FFF&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=180&section=header&text=Olá,%20sou%20o%20Marcos%20👻&fontSize=28&fontColor=7A1FFF&animation=twinkling"/>
 </h1>
 
 ---
@@ -59,7 +59,7 @@ Atualmente venho desenvolvendo meus conhecimentos em **Front-End e Back-End**, c
 
 ---
 
-## Estatísticas do GitHub
+## 📊 Estatísticas do GitHub
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MarcosVxn&theme=github_dark" />
@@ -68,6 +68,7 @@ Atualmente venho desenvolvendo meus conhecimentos em **Front-End e Back-End**, c
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MarcosVxn&theme=github_dark" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MarcosVxn&theme=github_dark" />
+</p>
 </p>
 
 ---
