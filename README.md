@@ -25,17 +25,18 @@ Atualmente venho desenvolvendo meus conhecimentos em **Front-End e Back-End**, c
 
 ---
 
-## Tecnologias & Ferramentas que estudo
+<h2>🛠️ Tecnologias & Ferramentas que estudo</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,fastapi,java,mysql,sqlite,git,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,java,python,mysql,sqlite,git,github,vscode&theme=dark" />
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=7A1FFF"/>
   <img src="https://img.shields.io/badge/SQLAlchemy-000000?style=for-the-badge&logo=sqlalchemy&logoColor=7A1FFF"/>
   <img src="https://img.shields.io/badge/Alembic-000000?style=for-the-badge&logo=alembic&logoColor=7A1FFF"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-000000?style=for-the-badge&logo=githubactions&logoColor=7A1FFF"/>
 </p>
-
 ---
 
 ## 🕸️ Minha Jornada de Contribuições
