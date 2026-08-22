@@ -69,7 +69,6 @@ Atualmente venho desenvolvendo meus conhecimentos em **Front-End e Back-End**, c
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MarcosVxn&theme=github_dark" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MarcosVxn&theme=github_dark" />
 </p>
-</p>
 
 ---
 
@@ -99,6 +98,10 @@ Alguns dos projetos desenvolvidos durante minha jornada de estudos:
 
   <a href="https://www.instagram.com/marcosvxn_/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=7A1FFF"/>
+  </a>
+
+  <a href="mailto:marcosjoaomj76@gmail.com">
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=7A1FFF"/>
   </a>
 
   <a href="https://www.linkedin.com/in/marcosvxn/" target="_blank">
