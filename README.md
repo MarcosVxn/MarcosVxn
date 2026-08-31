@@ -12,16 +12,18 @@ Estudante de **Análise e Desenvolvimento de Sistemas** com foco em desenvolvime
 
 Atualmente venho desenvolvendo meus conhecimentos em **Front-End e Back-End**, colocando em prática o que estudo através de projetos, exercícios e aplicações próprias.
 
-### Linhas de Estudo:
+## 🚀 Linhas de Estudo
 
-* Desenvolvimento de interfaces utilizando **HTML5**, **CSS3**, **JavaScript** e **React**.
-* Desenvolvimento Back-End utilizando **Python** e **FastAPI**.
-* Construção e integração de APIs.
-* Modelagem e gerenciamento de bancos de dados utilizando **SQLAlchemy** e **Alembic**.
-* Desenvolvimento utilizando **Java**.
-* Versionamento e organização de projetos com **Git** e **GitHub**.
+Atualmente, meus estudos estão concentrados no desenvolvimento de software, com foco na construção de aplicações **Full Stack**.
 
-*Atualmente focado em evoluir para me tornar um desenvolvedor Full Stack.*
+- **Front-End:** HTML5, CSS3, JavaScript e React.
+- **Back-End:** Python, FastAPI e Java.
+- **APIs:** construção e integração de APIs REST.
+- **Banco de Dados:** SQL, PostgreSQL, SQLAlchemy e Alembic.
+- **Desenvolvimento:** lógica de programação, Programação Orientada a Objetos e boas práticas de código.
+- **Versionamento:** Git e GitHub.
+
+> 🎯 Atualmente focado em fortalecer minha base em **Java, Back-End e desenvolvimento Full Stack**, transformando os conteúdos estudados em projetos práticos.
 
 ---
 
