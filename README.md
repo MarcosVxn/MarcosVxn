@@ -6,11 +6,13 @@
 
 ## Sobre Mim
 
-<img align="right" alt="Coding GIF" width="300" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
+<img align="right" alt="Coding GIF" width="300" style="display: block;" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 Estudante de **Análise e Desenvolvimento de Sistemas** com foco em desenvolvimento de software e evolução constante na área de tecnologia.
 
 Atualmente venho desenvolvendo meus conhecimentos em **Front-End e Back-End**, colocando em prática o que estudo através de projetos, exercícios e aplicações próprias.
+
+<br><br>
 
 ## 🚀 Linhas de Estudo
 
