@@ -6,38 +6,41 @@
 
 ## Sobre Mim
 
-<img align="right" alt="Coding GIF" width="300" style="display: block;" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding GIF" width="300" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-Estudante de **Análise e Desenvolvimento de Sistemas** com foco em desenvolvimento de software e evolução constante na área de tecnologia.
+Estudante de **Análise e Desenvolvimento de Sistemas**, focado em desenvolvimento de software e evolução constante na área de tecnologia.
 
-Atualmente venho desenvolvendo meus conhecimentos em **Front-End e Back-End**, colocando em prática o que estudo através de projetos, exercícios e aplicações próprias.
+Atualmente estou direcionando meus estudos para **Back-End com Java**, enquanto continuo desenvolvendo conhecimentos em **Front-End e desenvolvimento Full Stack** através de projetos acadêmicos, projetos pessoais e trabalho em equipe.
 
 <br><br>
 
-## 🚀 Linhas de Estudo
+## 🚀 Foco Atual
 
-Atualmente, meus estudos estão concentrados no desenvolvimento de software, com foco na construção de aplicações **Full Stack**.
+Meus estudos estão concentrados principalmente em desenvolvimento de software, com foco em:
 
-- **Front-End:** HTML5, CSS3, JavaScript e React.
-- **Back-End:** Python, FastAPI e Java.
-- **APIs:** construção e integração de APIs REST.
-- **Banco de Dados:** SQL, PostgreSQL, SQLAlchemy e Alembic.
+- **Back-End:** Java, Spring Boot, Python e FastAPI.
+- **Front-End:** React, JavaScript, HTML5 e CSS3.
+- **APIs:** desenvolvimento e integração de APIs REST.
+- **Banco de Dados:** SQL.
 - **Desenvolvimento:** lógica de programação, Programação Orientada a Objetos e boas práticas de código.
 - **Versionamento:** Git e GitHub.
 
-> 🎯 Atualmente focado em fortalecer minha base em **Java, Back-End e desenvolvimento Full Stack**, transformando os conteúdos estudados em projetos práticos.
+> 🎯 Atualmente meu principal foco é **Java + Spring Boot + Back-End**, fortalecendo minha base através de prática, projetos e desafios de código.
 
 ---
 
-<h2>🛠️ Tecnologias & Ferramentas que estudo</h2>
+## 🛠️ Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,java,python,fastapi,mysql,sqlite,git,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,react,js,html,css,mysql,git,github,docker&theme=dark" />
 </p>
 
+---
+
+## 🔧 Ferramentas
+
 <p align="center">
-  <img src="https://img.shields.io/badge/SQLAlchemy-000000?style=for-the-badge&logo=sqlalchemy&logoColor=7A1FFF"/>
-  <img src="https://img.shields.io/badge/Alembic-000000?style=for-the-badge&logo=alembic&logoColor=7A1FFF"/>
+  <img src="https://skillicons.dev/icons?i=idea,vscode,eclipse,git,github,docker,postman,figma&theme=dark" />
 </p>
 
 ---
@@ -76,24 +79,37 @@ Atualmente, meus estudos estão concentrados no desenvolvimento de software, com
 
 ---
 
-## Formação Acadêmica
+## 🎓 Formação Acadêmica
 
-* **Ensino Superior:** Análise e Desenvolvimento de Sistemas — *SENAI*
-
----
-
-## Projetos
-
-Alguns dos projetos desenvolvidos durante minha jornada de estudos:
-
-* **Portfólio** — Projeto pessoal para apresentar meus conhecimentos e projetos.
-* **FaleFácil** — Projeto desenvolvido para estudos de desenvolvimento web.
-* **Sense** — Dashboard para visualização de dados.
-* **Projetos acadêmicos** — Projetos desenvolvidos durante minha formação em ADS.
+- **Análise e Desenvolvimento de Sistemas — SENAI**
 
 ---
 
-## Contato & Portfólio
+## 💻 Projetos
+
+Alguns projetos desenvolvidos durante minha jornada:
+
+- **E-commerce de Pedidos** — Projeto em Java focado em POO, organização de código e evolução para Back-End.
+- **FaleFácil** — Projeto colaborativo de desenvolvimento web.
+- **Sense** — Dashboard para visualização de dados.
+- **Projetos acadêmicos** — Aplicações desenvolvidas durante minha formação em ADS.
+
+---
+
+## 📚 Atualmente Estudando
+
+- Java
+- Programação Orientada a Objetos
+- Spring Boot
+- APIs REST
+- Estruturas de Dados e Lógica de Programação
+- SQL
+- React
+- Inglês Técnico
+
+---
+
+## 📫 Contato
 
 <p align="center">
   <a href="https://github.com/MarcosVxn" target="_blank">
@@ -120,5 +136,5 @@ Alguns dos projetos desenvolvidos durante minha jornada de estudos:
 </div>
 
 <p align="center">
-  <i>Documentando minha jornada de aprendizado 🚀</i>
+  <i>Construindo, estudando e evoluindo um projeto de cada vez. 🚀</i>
 </p>
