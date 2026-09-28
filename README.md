@@ -10,7 +10,7 @@
 
 Estudante de **Análise e Desenvolvimento de Sistemas**, focado em desenvolvimento de software e evolução constante na área de tecnologia.
 
-Atualmente estou direcionando meus estudos para **Back-End com Java**, enquanto continuo desenvolvendo conhecimentos em **Front-End e desenvolvimento Full Stack** através de projetos acadêmicos, projetos pessoais e trabalho em equipe.
+Atualmente estou direcionando meus estudos para **Back-End com Java**, enquanto continuo desenvolvendo conhecimentos em **Front-End** através de projetos acadêmicos, projetos pessoais e trabalho em equipe.
 
 <br><br>
 
@@ -21,7 +21,7 @@ Meus estudos estão concentrados principalmente em desenvolvimento de software, 
 - **Back-End:** Java, Spring Boot, Python e FastAPI.
 - **Front-End:** React, JavaScript, HTML5 e CSS3.
 - **APIs:** desenvolvimento e integração de APIs REST.
-- **Banco de Dados:** SQL.
+- **Banco de Dados:** SQL, MySQL e PostgreSQL.
 - **Desenvolvimento:** lógica de programação, Programação Orientada a Objetos e boas práticas de código.
 - **Versionamento:** Git e GitHub.
 
@@ -32,7 +32,7 @@ Meus estudos estão concentrados principalmente em desenvolvimento de software, 
 ## 🛠️ Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,react,js,html,css,mysql,git,github,docker&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,react,js,html,css,mysql,postgres&theme=dark" />
 </p>
 
 ---
@@ -104,6 +104,7 @@ Alguns projetos desenvolvidos durante minha jornada:
 - APIs REST
 - Estruturas de Dados e Lógica de Programação
 - SQL
+- PostgreSQL
 - React
 - Inglês Técnico
 
