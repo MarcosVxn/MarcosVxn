@@ -6,7 +6,7 @@
 
 ## Sobre Mim
 
-<img align="right" alt="Coding GIF" width="300" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Marcos Coding GIF" width="300" src="https://camo.githubusercontent.com/aa9d12b697cc3f2f27f7c3172b1ebc53d673605732e9f0c8882ae9f512092346/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f31662f64372f38652f31666437386532383434393334356362373732653630656231303162363662322e676966">
 
 Estudante de **Análise e Desenvolvimento de Sistemas**, focado em desenvolvimento de software e evolução constante na área de tecnologia.
 
