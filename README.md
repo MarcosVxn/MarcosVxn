@@ -1,4 +1,3 @@
-
 <h1 align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=180&section=header&text=Olá,%20sou%20o%20Marcos%20👻&fontSize=28&fontColor=000000&animation=twinkling"/>
 </h1>
@@ -54,12 +53,15 @@ Estudando **AI Engineering**, agentes inteligentes e aplicações com IA.
 
 ## ☁️ AWS & Cloud Computing
 
-Cursando **AWS Essentials** e me preparando para as certificações **AWS Certified Cloud Practitioner (CLF-C02)** e **AWS Certified AI Practitioner (AIF-C01)**.
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws&theme=light"/>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/AWS%20Essentials-000000?style=for-the-badge&logo=amazonaws&logoColor=FFFFFF"/>
 </p>
+
+Cursando **AWS Essentials** e me preparando para as certificações **AWS Certified Cloud Practitioner (CLF-C02)** e **AWS Certified AI Practitioner (AIF-C01)**.
 
 Estudando fundamentos de Cloud Computing, serviços AWS e aplicações de Inteligência Artificial na nuvem.
 
