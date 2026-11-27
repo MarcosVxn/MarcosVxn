@@ -10,7 +10,7 @@
 
 ## 👨‍💻 Sobre Mim
 
-<img align="right" alt="Marcos Coding GIF" width="280" src="https://camo.githubusercontent.com/aa9d12b697cc3f2f27f7c3172b1ebc53d673605732e9f0c8882ae9f512092346/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f31662f64372f38652f31666437386532383434393334356362373732653630656231303162363662322e676966">
+<img align="right" alt="Marcos Coding GIF" width="280" src="https://raw.githubusercontent.com/MarcosVxn/MarcosVxn/main/assets/coding.gif">
 
 Estudante de **Análise e Desenvolvimento de Sistemas**, interessado em desenvolvimento de software, Inteligência Artificial e Cloud Computing.
 
